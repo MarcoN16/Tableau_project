@@ -6,7 +6,8 @@ https://public.tableau.com/app/profile/marco.n3507/viz/CityBikeNY/CityBike_analy
 
 This analysis focuses on data from the top 10 active bike stations in New York City from March to November 2023. December, January, and February were excluded due to lower ride counts attributed to colder temperatures during these months. The map displays the geographic locations of these stations, with color indicating the average bike usage time and size representing the number of bikes for the period considered. Two main stations stand out: one between W21st & 6th Ave and another between West St & Chamber St. 
 
-<img width="511" alt="destination" src="https://github.com/MarcoN16/Tableau_project/assets/150491559/370d1afd-9c56-4c6c-9f68-c820d51aea5a">
+
+<img width="463" alt="map" src="https://github.com/MarcoN16/Tableau_project/assets/150491559/4d3258d9-fb9f-4e51-80f1-0ba2f1472512">
 
 
 ## Trips Analysis by Customer Type
